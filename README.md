@@ -24,4 +24,28 @@ Technologies used: <br />
   <li>ActivityClientTest: validates method and returned object correctness</li>
   </ul>
   
+  <br />
+  HTTP Verbs:<br />
+  GET:
+  <img src="images/GET_method.png" height=200 width=auto/>
+  <img src="images/GET_postman.png" height=200 width=auto/>
+<br />
+  POST:
+  <img src="images/POST_method.png" height=200 width=auto/>
+  <img src="images/POST_postman.png" height=200 width=auto/>
+  <br />
+  POST JSON:
+  <img src="images/POST_JSON_method.png" height=200 width=auto/>
+  <img src="images/POST_JSON_postman.png" height=200 width=auto/>
+  <br />
+  PUT:
+  <img src="images/PUT_method.png" height=200 width=auto/>
+  <img src="images/PUT_postman.png" height=200 width=auto/>
+  <br />
+  DELETE:
+  <img src="images/DELETE_method.png" height=200 width=auto/>
+  <img src="images/DELETE_postman.png" height=200 width=auto/>
   
+  <br /><br />
+  JUnit Results:<br />
+    <img src="images/junit_tests.png" height=250 width=auto/>
